@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ateet Khandelwal</h1>
-<h3 align="center">A Passionate Quantitative Analyst</h3>
+<h3 align="center">A Passionate Quant | IIT Kharagpur 2022 | Ex Nomura</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:602/1*ds3lwPLEpm1cwg6atgfHNA.jpeg">
 
